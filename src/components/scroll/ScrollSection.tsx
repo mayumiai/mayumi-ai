@@ -1,4 +1,5 @@
 // src/components/scroll/ScrollSection.tsx
+
 "use client";
 
 import { useRef, useEffect } from "react";
